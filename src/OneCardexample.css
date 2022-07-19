@@ -1,0 +1,20 @@
+.cardbox{
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+}
+.cardarea{
+    width: 50px;
+    height: 400px;
+}
+.cardimg{
+    width: 451px;
+    height: 300px;
+}
+.cardcont h3{
+    bottom: 0;
+
+}
+.cardname{
+    font-size: 27px;
+}
